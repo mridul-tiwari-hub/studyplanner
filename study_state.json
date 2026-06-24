@@ -1,0 +1,113 @@
+{
+    "goal": "sex",
+    "syllabus": [
+        {
+            "day": 1,
+            "topic": "Intro to sex",
+            "description": "Core concepts and definitions",
+            "status": "active"
+        },
+        {
+            "day": 2,
+            "topic": "Intermediate sex",
+            "description": "Hands-on application and patterns",
+            "status": "locked"
+        },
+        {
+            "day": 3,
+            "topic": "Advanced sex",
+            "description": "Best practices and optimization",
+            "status": "locked"
+        }
+    ],
+    "current_day": 3,
+    "quiz_history": [
+        {
+            "day": 1,
+            "topic": "Foundations of Human Sexuality: Biology and Anatomy",
+            "question": "Which hormone, often called the 'love hormone,' is released during orgasm and contributes to feelings of bonding, attachment, and pleasure?",
+            "selected": "A) Testosterone",
+            "correct": false
+        },
+        {
+            "day": 2,
+            "topic": "Review Module: Foundations of Human Sexuality: Biology and Anatomy",
+            "question": "According to the provided lesson, why is the content currently displayed as a placeholder?",
+            "selected": "A) The module is still under development and detailed information is not yet finalized.",
+            "correct": false
+        }
+    ],
+    "agent_logs": [
+        {
+            "timestamp": "2026-06-25 01:20:13",
+            "agent": "System",
+            "message": "Journey initiated for goal: 'sex'"
+        },
+        {
+            "timestamp": "2026-06-25 01:21:08",
+            "agent": "Teacher Agent",
+            "message": "Drafting lesson for topic: 'Foundations of Human Sexuality: Biology and Anatomy' under goal: 'sex'..."
+        },
+        {
+            "timestamp": "2026-06-25 01:58:03",
+            "agent": "Teacher Agent",
+            "message": "Drafting lesson for topic: 'Advanced sex' under goal: 'sex'..."
+        },
+        {
+            "timestamp": "2026-06-25 01:58:04",
+            "agent": "Teacher Agent",
+            "message": "Drafting lesson for topic: 'Advanced sex' under goal: 'sex'..."
+        },
+        {
+            "timestamp": "2026-06-25 01:58:05",
+            "agent": "System",
+            "message": "Temporary Gemini API issue encountered. Retrying attempt 2/3 in 1.5s..."
+        },
+        {
+            "timestamp": "2026-06-25 01:58:06",
+            "agent": "System",
+            "message": "Temporary Gemini API issue encountered. Retrying attempt 2/3 in 1.5s..."
+        },
+        {
+            "timestamp": "2026-06-25 01:58:07",
+            "agent": "System",
+            "message": "Temporary Gemini API issue encountered. Retrying attempt 3/3 in 3.0s..."
+        },
+        {
+            "timestamp": "2026-06-25 01:58:08",
+            "agent": "Teacher Agent",
+            "message": "Drafting lesson for topic: 'Advanced sex' under goal: 'sex'..."
+        },
+        {
+            "timestamp": "2026-06-25 01:58:08",
+            "agent": "System",
+            "message": "Temporary Gemini API issue encountered. Retrying attempt 3/3 in 3.0s..."
+        }
+    ],
+    "generated_lessons": {
+        "Review Module: Foundations of Human Sexuality: Biology and Anatomy": "### Lesson on Review Module: Foundations of Human Sexuality: Biology and Anatomy\n\nWelcome to the module on **Review Module: Foundations of Human Sexuality: Biology and Anatomy**! This lesson covers the fundamental concepts, practical applications, and best practices associated with Review Module: Foundations of Human Sexuality: Biology and Anatomy.\n\n#### Key Concepts\n1. **Understanding the Basics**: Get familiar with the core definitions and structure of Review Module: Foundations of Human Sexuality: Biology and Anatomy.\n2. **Implementation**: Explore how this topic is applied in real-world software engineering.\n3. **Optimization**: Learn tips and techniques to build efficient and scalable systems using Review Module: Foundations of Human Sexuality: Biology and Anatomy.\n\n*(Note: This is a placeholder lesson shown because the Gemini API is currently unavailable or the API key is invalid/expired.)*",
+        "Advanced sex": "### Lesson on Advanced sex\n\nWelcome to the module on **Advanced sex**! This lesson covers the fundamental concepts, practical applications, and best practices associated with Advanced sex.\n\n#### Key Concepts\n1. **Understanding the Basics**: Get familiar with the core definitions and structure of Advanced sex.\n2. **Implementation**: Explore how this topic is applied in real-world software engineering.\n3. **Optimization**: Learn tips and techniques to build efficient and scalable systems using Advanced sex.\n\n*(Note: This is a placeholder lesson shown because the Gemini API is currently unavailable or the API key is invalid/expired.)*"
+    },
+    "generated_quizzes": {
+        "Review Module: Foundations of Human Sexuality: Biology and Anatomy": {
+            "question": "According to the provided lesson, why is the content currently displayed as a placeholder?",
+            "options": [
+                "A) The module is still under development and detailed information is not yet finalized.",
+                "B) There is an issue with the Gemini API or the API key is invalid/expired.",
+                "C) The lesson intentionally provides only a high-level overview without specific details.",
+                "D) The user's account does not have access to the full lesson content."
+            ],
+            "correct_option": "B"
+        },
+        "Advanced sex": {
+            "question": "Which of the following best describes the main focus of the module: 'Advanced sex'?",
+            "options": [
+                "A) Understanding the core concepts and basic setup",
+                "B) Deleting all system configuration files",
+                "C) Skipping learning resources completely",
+                "D) None of the above"
+            ],
+            "correct_option": "A"
+        }
+    }
+}

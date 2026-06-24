@@ -1,0 +1,5 @@
+google-adk>=0.1.0
+google-genai
+streamlit
+python-dotenv
+openai
