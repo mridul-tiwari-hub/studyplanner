@@ -1,8 +1,8 @@
 # StudyPlanner
 
-[![Architecture Diagram](architecture_diagram_1782336040043.png)](architecture_diagram_1782336040043.png)
+[![Architecture Diagram](architecture_diagram.png)](architecture_diagram.png)
 
-[![Workflow Diagram](workflow_diagram_1782336255641.png)](workflow_diagram_1782336255641.png)
+[![Workflow Diagram](workflow_diagram.png)](workflow_diagram.png)
 
 ---
 
